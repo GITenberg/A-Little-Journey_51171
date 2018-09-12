@@ -5,6 +5,9 @@ contributor:
     agent_name: Thorne
     gutenberg_agent_id: '48874'
     url: http://www.gutenberg.org/2009/agents/48874
+covers:
+- cover_type: archival
+  image_path: 51171-h/images/cover.jpg
 creator:
   author:
     agent_name: Bradbury, Ray
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '41269'
     url: http://www.gutenberg.org/2009/agents/41269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51171#A-Little-Journey
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-10'
 gutenberg_type: Text
